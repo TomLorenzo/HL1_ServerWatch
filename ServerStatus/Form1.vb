@@ -119,6 +119,8 @@ Public Class Form1
             Dim RemoteIpEndPoint As New IPEndPoint(IPAddress.Any, 0)
 
             ' UdpClient.Receive blocks until a message is received from a remote host.
+
+            'ToDo: Switch to udpClient.BeginReceive as asynchronous Service
             Dim receiveBytes As [Byte]() = udpClient.Receive(RemoteIpEndPoint)
             Dim returnData As String = DelSpecChar(Encoding.Default.GetString(receiveBytes))
 
