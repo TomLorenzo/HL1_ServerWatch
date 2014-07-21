@@ -1,0 +1,15 @@
+e:\--- dokumente ---\visual studio 2013\Projects\ServerStatus\ServerStatus\bin\Debug\ServerStatus.exe.config
+e:\--- dokumente ---\visual studio 2013\Projects\ServerStatus\ServerStatus\bin\Debug\ServerStatus.exe
+e:\--- dokumente ---\visual studio 2013\Projects\ServerStatus\ServerStatus\bin\Debug\ServerStatus.pdb
+e:\--- dokumente ---\visual studio 2013\Projects\ServerStatus\ServerStatus\bin\Debug\ServerStatus.xml
+e:\--- dokumente ---\visual studio 2013\Projects\ServerStatus\ServerStatus\obj\Debug\ServerStatus.Form1.resources
+e:\--- dokumente ---\visual studio 2013\Projects\ServerStatus\ServerStatus\obj\Debug\ServerStatus.Resources.resources
+e:\--- dokumente ---\visual studio 2013\Projects\ServerStatus\ServerStatus\obj\Debug\ServerStatus.vbproj.GenerateResource.Cache
+e:\--- dokumente ---\visual studio 2013\Projects\ServerStatus\ServerStatus\obj\Debug\ServerStatus.exe
+e:\--- dokumente ---\visual studio 2013\Projects\ServerStatus\ServerStatus\obj\Debug\ServerStatus.xml
+e:\--- dokumente ---\visual studio 2013\Projects\ServerStatus\ServerStatus\obj\Debug\ServerStatus.pdb
+E:\--- DOKUMENTE ---\Visual Studio 2013\Projects\ServerStatus\ServerStatus\obj\Debug\ServerStatus.Form2.resources
+E:\--- DOKUMENTE ---\Visual Studio 2013\Projects\ServerStatus\ServerStatus\bin\Debug\ServerStatus.exe.manifest
+E:\--- DOKUMENTE ---\Visual Studio 2013\Projects\ServerStatus\ServerStatus\bin\Debug\ServerStatus.application
+E:\--- DOKUMENTE ---\Visual Studio 2013\Projects\ServerStatus\ServerStatus\obj\Debug\ServerStatus.exe.manifest
+E:\--- DOKUMENTE ---\Visual Studio 2013\Projects\ServerStatus\ServerStatus\obj\Debug\ServerStatus.application
