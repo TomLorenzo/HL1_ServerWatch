@@ -5,6 +5,14 @@ Imports System
 Imports System.IO
 Imports System.Collections
 
+'
+' AUFBAU der Datei servers.txt
+' 1. Name
+' 2. IP
+' 3. Port
+' 4. ?
+' 5. ?
+'
 
 Public Class Form1
 
